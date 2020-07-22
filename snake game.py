@@ -92,3 +92,5 @@ def update():
     root.after(50, update)
     
 update()
+
+root.mainloop()
